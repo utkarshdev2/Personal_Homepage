@@ -1,0 +1,90 @@
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: system-ui, sans-serif;
+    line-height: 1.6;
+    background: var(--bg);
+    color: var(--text);
+    transition: background 0.3s, color 0.3s;
+  }
+
+  h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  :root {
+    --bg: #ffffff;
+    --text: #222222;
+    --accent: #0077ff;
+  }
+
+  body.dark {
+    --bg: #121212;
+    --text: #eaeaea;
+    --accent: #ff9800;
+  }
+
+  .hero-section {
+  background: linear-gradient(to right, #006994, #004a6b);
+  }
+
+  .modal-container {
+    background-color: rgba(0, 0, 0, 0.3);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    top:0;
+    left:0;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1050;
+  }
+
+  .modal-container.show {
+    pointer-events: auto;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .modal {
+    width: 600px !important;
+    max-width: 90% !important;
+    padding: 30px 50px !important;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    z-index: 1051;
+    background-color: white;
+  }
+
+.modal-container.show .modal {
+  display: block !important; 
+  transform: scale(1) !important; 
+}
+
+.modal-container .modal {
+  position: static !important; /* Override Bootstrap modal positioning */
+  display: block !important;
+}
+
+  .modal h2 {
+  color: #333; /* Ensure heading is visible */
+  margin-bottom: 15px;
+}
+
+.modal p {
+  color: #666; /* Ensure text is visible */
+}
+
