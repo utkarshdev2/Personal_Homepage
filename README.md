@@ -12,6 +12,8 @@ It was created as part of a web development assignment with the following requir
 ## 🌐 Live Preview
 [Click me!](https://utkarshdev2.github.io/Personal_Homepage/)
 
+## 📓 Class link
+[WebDev class!](https://johnguerra.co/classes/webDevelopment_online_fall_2025/)
 ---
 
 ## 📂 Project Structure
@@ -133,7 +135,6 @@ serve .
 - **JavaScript (ES6+)**  
 - **Bootstrap 5.3** (for responsive layout only)
 - **GenAI** (Claude and ChatGPT)
-
 ---
 
 ## 📜 License
