@@ -10,7 +10,7 @@ It was created as part of a web development assignment with the following requir
 ---
 
 ## 🌐 Live Preview
-*(Optional: Add link here if you deploy it using GitHub Pages, Netlify, or Vercel)*
+[Click me!](https://utkarshdev2.github.io/Personal_Homepage/)
 
 ---
 
@@ -66,18 +66,56 @@ The **modal popup feature** is implemented using **vanilla ES6+ JavaScript**.
   - Clicking outside the modal.  
   - Pressing the `Escape` key.  
 
+## 🤖 Use of GenAI
+This project uses GenAI in the following way:
+-Claude was used to create a template for 'projects.html'. This was before modal popup implementation. Additional visual tweaks were done to make it 
+look uniform with the rest of the pages. "Make a projects html page for a personal homepage with cards, each card depicting a project. Bootstrap 5."
+-ChatGPT was used to ask about potential ideas for the JS feature, and for understanding some concepts, like "what does MIT License mean?" "why is package.json important?"
+-"Project in Progress" section in projects.html was added after page generation from AI. 
+
 ---
+
+## ⚙️ How to Run
+
+### Option 1: Open directly in browser
+1. Clone or download the repo.
+2. Open `index.html` in a modern browser.
+3. Navigate through Home → Skills → Projects.  
+
+> Note: Some browsers may block ES6 module imports via `file://`. Use Option 2 if you see errors.
+
+### Option 2: Use a local development server
+**Using VS Code Live Server:**  
+1. Install the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).  
+2. Open your project folder in VS Code.  
+3. Right-click `index.html` → Open with Live Server.  
+
+**Using Node.js `serve` package:**  
+```bash
+npm install -g serve
+serve .
+- Open the provided URL in your browser.
+
+## 🖱️ How to Use
+1. Navigation – Use the top navbar to switch between Home, Skills, and Projects.
+2. Home Page – View profile picture, introduction, and hobbies.
+3. Skills Page – Check technical skills and courses.
+4. Projects Page – Browse project cards and click Info for modal popups with details.
+5. Responsive Design – Layout adjusts for desktop, tablet, and mobile.
+6. Dark Mode – (Optional) Toggle light/dark themes if implemented.
 
 ## 📸 Screenshots
 
 - **Homepage**
-  ![Homepage Screenshot](./screenshots/homepage.png)
+  ![Homepage Screenshot](./screenshots/Screenshot-home.png)
 
 - **Skills Page**
-  ![Skills Screenshot](./screenshots/skills.png)
+  ![Skills Screenshot](./screenshots/Screenshot-skills.png)
 
 - **Projects with Modal**
-  ![Projects Screenshot](./screenshots/projects.png)
+  ![Projects Screenshot](./screenshots/Screenshot-project.png)
+   (./screenshots/Screenshot-project2.png)
+   (./screenshots/Screenshot-modal.png)
 
 ---
 
@@ -86,6 +124,7 @@ The **modal popup feature** is implemented using **vanilla ES6+ JavaScript**.
 - **CSS3**  
 - **JavaScript (ES6+)**  
 - **Bootstrap 5.3** (for responsive layout only)
+- **GenAI** (Claude and ChatGPT)
 
 ---
 

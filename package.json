@@ -1,0 +1,22 @@
+{
+  "name": "personal-homepage",
+  "version": "1.0.0",
+  "description": "Utkarsh Dev personal homepage built with HTML, CSS, and JavaScript (ES6+).",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"Open index.html in a browser to view the site\""
+  },
+  "keywords": [
+    "homepage",
+    "portfolio",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ES6"
+  ],
+  "author": "Utkarsh Dev",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {}
+}
