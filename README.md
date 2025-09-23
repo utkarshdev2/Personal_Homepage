@@ -16,6 +16,7 @@ It was created as part of a web development assignment with the following requir
 
 ## 📂 Project Structure
 
+```bash
 ├── index.html
 ├── skills.html
 ├── projects.html
@@ -29,6 +30,7 @@ It was created as part of a web development assignment with the following requir
 │   └── yolo-data.png
 ├── LICENSE
 └── README.md
+```
 
 ---
 
