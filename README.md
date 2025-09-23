@@ -74,10 +74,10 @@ The **modal popup feature** is implemented using **vanilla ES6+ JavaScript**.
 
 ## 🤖 Use of GenAI
 This project uses GenAI in the following way:
--Claude was used to create a template for 'projects.html'. This was before modal popup implementation. Additional visual tweaks were done to make it 
+- Claude was used to create a template for 'projects.html'. This was before modal popup implementation. Additional visual tweaks were done to make it 
 look uniform with the rest of the pages. "Make a projects html page for a personal homepage with cards, each card depicting a project. Bootstrap 5."
--ChatGPT was used to ask about potential ideas for the JS feature, and for understanding some concepts, like "what does MIT License mean?" "why is package.json important?"
--"Project in Progress" section in projects.html was added after page generation from AI. 
+- ChatGPT was used to ask about potential ideas for the JS feature, and for understanding some concepts, like "what does MIT License mean?" "why is package.json important?"
+- "Project in Progress" section in projects.html was added after page generation from AI. 
 
 ---
 
