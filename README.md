@@ -95,6 +95,7 @@ look uniform with the rest of the pages. "Make a projects html page for a person
 npm install -g serve
 serve .
 - Open the provided URL in your browser.
+```
 
 ## 🖱️ How to Use
 1. Navigation – Use the top navbar to switch between Home, Skills, and Projects.
