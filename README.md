@@ -14,6 +14,9 @@ It was created as part of a web development assignment with the following requir
 
 ## 📓 Class link
 [WebDev class!](https://johnguerra.co/classes/webDevelopment_online_fall_2025/)
+
+## 📝 Design Document
+[Click me!](https://docs.google.com/document/d/1X5_VAS6tmoM791EJFO5lI4M9aipdh4xT/edit?usp=sharing&ouid=114033708169858805033&rtpof=true&sd=true)
 ---
 
 ## 📂 Project Structure
