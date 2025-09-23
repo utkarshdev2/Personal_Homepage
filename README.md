@@ -16,7 +16,6 @@ It was created as part of a web development assignment with the following requir
 
 ## 📂 Project Structure
 
-.
 ├── index.html
 ├── skills.html
 ├── projects.html
