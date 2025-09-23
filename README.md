@@ -28,6 +28,12 @@ It was created as part of a web development assignment with the following requir
 │   ├── favicon.png
 │   ├── pfp2Slack.jpg
 │   └── yolo-data.png
+├── Screenshots/
+│   ├── Screenshot-home.png
+│   ├── Screenshot-modal.jpg
+│   └── Screenshot-project.png
+│   ├── Screenshot-project2.jpg
+│   └── Screenshot-skills.png
 ├── LICENSE
 └── README.md
 ```
@@ -109,15 +115,15 @@ serve .
 ## 📸 Screenshots
 
 - **Homepage**
-  ![Homepage Screenshot](./screenshots/Screenshot-home.png)
+  ![Homepage Screenshot](./Screenshots/Screenshot-home.png)
 
 - **Skills Page**
-  ![Skills Screenshot](./screenshots/Screenshot-skills.png)
+  ![Skills Screenshot](./Screenshots/Screenshot-skills.png)
 
 - **Projects with Modal**
-  ![Projects Screenshot](./screenshots/Screenshot-project.png)
-   (./screenshots/Screenshot-project2.png)
-   (./screenshots/Screenshot-modal.png)
+  ![Projects Screenshot](./Screenshots/Screenshot-project.png)
+   (./screenshots/Screenshots-project2.png)
+   (./screenshots/Screenshots-modal.png)
 
 ---
 
