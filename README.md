@@ -122,8 +122,8 @@ serve .
 
 - **Projects with Modal**
   ![Projects Screenshot](./Screenshots/Screenshot-project.png)
-   (./screenshots/Screenshots-project2.png)
-   (./screenshots/Screenshots-modal.png)
+  ![Projects Screenshot](./screenshots/Screenshots-project2.png)
+  ![Projects Screenshot](./screenshots/Screenshots-modal.png)
 
 ---
 
