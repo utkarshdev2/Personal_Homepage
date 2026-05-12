@@ -115,7 +115,6 @@ serve .
 3. Skills Page – Check technical skills and courses.
 4. Projects Page – Browse project cards and click Info for modal popups with details.
 5. Responsive Design – Layout adjusts for desktop, tablet, and mobile.
-6. Dark Mode – (Optional) Toggle light/dark themes if implemented.
 
 ## 📸 Screenshots
 
